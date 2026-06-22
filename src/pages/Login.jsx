@@ -20,7 +20,7 @@ export default function Login() {
       </div>
 
       <div style={styles.heroBlock}>
-        <p style={styles.eyebrow}>Welcome back</p>
+        <h1 style={styles.heading}>Welcome Back</h1>
       </div>
 
       <form onSubmit={handleSubmit} style={styles.form}>
