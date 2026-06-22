@@ -21,7 +21,6 @@ export default function Login() {
 
       <div style={styles.heroBlock}>
         <p style={styles.eyebrow}>Welcome back</p>
-        <h1 style={styles.heading}>Sign in to your<br />portfolio</h1>
       </div>
 
       <form onSubmit={handleSubmit} style={styles.form}>
